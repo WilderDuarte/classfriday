@@ -10,3 +10,16 @@ img{
 tr:hover{
     background-color: blueviolet;
 }
+
+input{
+    border-radius: 5px;
+    border: 3px solid orange;
+}
+
+.tipoinputs{
+    background-color: brown;
+}
+
+#nombrepersona{
+    height: 50px;
+}
